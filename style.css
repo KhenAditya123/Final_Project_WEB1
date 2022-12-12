@@ -4,5 +4,8 @@
 body{
     margin :0px;
     background-color: rgb(255, 255, 255) ;
-
 }
+.carousel{
+        width:780px;
+        max-width:100%;
+      }
