@@ -1,3 +1,4 @@
+
 .bnavbar{
     background: rgb(196, 189, 171);
 }
@@ -6,6 +7,11 @@ body{
     background-color: rgb(255, 255, 255) ;
 }
 .carousel{
-        width:780px;
-        max-width:100%;
-      }
+    width:100%;
+    max-width:100%;
+}
+
+.carousel-item{
+    border-style: groove;
+    border-color: chartreuse;
+}
