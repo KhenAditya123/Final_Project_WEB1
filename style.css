@@ -85,3 +85,13 @@ a.dropdown-item:hover {
     border: 3px solid;
     border-color: rgb(117, 140, 171);
 }
+
+#carouselExampleIndicators{
+    position:static;
+}
+
+.card card-cascade wider{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
