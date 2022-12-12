@@ -90,8 +90,6 @@ a.dropdown-item:hover {
     position:static;
 }
 
-.card card-cascade wider{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+.text-center text-lg-start bg-white text-muted{
+    margin: 40px;
 }
