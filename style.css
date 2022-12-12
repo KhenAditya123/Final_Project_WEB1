@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 .bnavbar {
+=======
+
+.bnavbar{
+>>>>>>> 48bdc0e6e32ec1146bf2cb65bb5e55f9b7e65b69
     background: rgb(196, 189, 171);
 }
 
@@ -6,6 +11,7 @@ body {
     margin: 0px;
     background-color: rgb(255, 255, 255);
 }
+<<<<<<< HEAD
 
 .carousel {
     width: 100%;
@@ -71,4 +77,14 @@ a.dropdown-item:hover {
 #navbarNavDropdown.show .navbar-nav {
     background: #037582;
     padding: 12px;
+=======
+.carousel{
+    width:100%;
+    max-width:100%;
+}
+
+.carousel-item{
+    border-style: groove;
+    border-color: chartreuse;
+>>>>>>> 48bdc0e6e32ec1146bf2cb65bb5e55f9b7e65b69
 }
