@@ -1,0 +1,9 @@
+body {
+    background:rgb(230, 233, 185);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#mainNavigation a{
+    color:rgb(12, 10, 10)
+}

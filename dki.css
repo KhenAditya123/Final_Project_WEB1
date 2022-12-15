@@ -1,0 +1,23 @@
+body {
+    background: url(Images/bgjkt1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.column {
+    float: left;
+    width: 33.33%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  h4{
+    text-align: center;
+  }
+  .container{
+    border-radius: 10px;
+  }

@@ -1,0 +1,26 @@
+body {
+    background: url(Images/bgjateng.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#mainNavigation a{
+    color:bisque
+}
+.column {
+    float: left;
+    width: 33.33%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  h4{
+    text-align: center;
+  }
+  .container{
+    border-radius: 10px;
+  }

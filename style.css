@@ -1,18 +1,21 @@
-body{
-   background:url(Images/bg.jpg);
-   background-repeat: no-repeat;
-   background-attachment: fixed;
-   background-size: cover;
+body {
+    background: url(Images/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
 }
-#mainNavigation{
-    position:static;
+
+#mainNavigation {
+    position: static;
 }
-.bnavbar{
+
+.bnavbar {
     background: rgb(196, 189, 171);
 }
 
 body {
-    margin:0px;
+    margin: 0px;
     background-color: rgb(255, 255, 255);
 }
 
@@ -42,7 +45,6 @@ body {
 
 .nav-item a:hover {
     color: rgb(160, 185, 255)
-    
 }
 
 .nav-item {
@@ -71,56 +73,64 @@ body {
     padding: 12px;
 }
 
-.carousel{
-    width:100%;
-    max-width:100%;
-    padding:10px;
+.carousel {
+    width: 100%;
+    max-width: 100%;
+    padding: 10px;
 }
 
-.carousel-item{
+.carousel-item {
     border: 3px solid;
     border-color: rgb(117, 140, 171);
 }
 
-#carouselExampleIndicators{
-    position:static;
+#carouselExampleIndicators {
+    position: static;
 }
 
-.text-center text-lg-start bg-white text-muted{
+.text-center text-lg-start bg-white text-muted {
     margin: 40px;
 }
-.nav-link{
+
+.nav-link {
     color: #037582;
     background-color: transparent;
 }
-.container{
+
+.container {
     padding-top: 50px;
-}
-.footer{
-    
-    text-decoration: none ;
     
 }
-a{
-text-decoration:none ;
+
+.footer {
+
+    text-decoration: none;
+    
 
 }
-.h5{
+
+a {
+    text-decoration: none;
+
+}
+
+.h5 {
     text-align: center;
 }
 
-.card{
+.card {
     border-radius: 15px;
     background-color: rgb(223, 215, 215);
     border-style: outset;
 
 }
+
 .text-lg-start {
     text-align: left;
     border-radius: 15px;
-    border-style:outset;
+    border-style: outset;
 }
+
 :root {
     animation-delay: 2s;
-  }
-
+}
