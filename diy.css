@@ -4,6 +4,13 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+*{
+  font-family: 'Rubik Gemstones', cursive;
+}
+h1{
+  text-align: center;
+  color: rgb(24, 116, 202);
+}
 #mainNavigation a{
     color:bisque
 }
