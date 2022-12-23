@@ -27,8 +27,18 @@ body {
   }
   .container{
     border-radius: 10px;
+    
   }
   h1{
     text-align: center;
     color: rgb(190, 126, 28);
   }
+  .col-sm-8{
+    background-color: aliceblue;
+    border-radius: 10px;
+    opacity: 0.9 ;
+    position: sticky;
+    color: rgb(1, 95, 48);
+    
+  }
+  

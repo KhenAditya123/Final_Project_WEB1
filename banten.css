@@ -38,4 +38,11 @@ h1 {
   text-decoration-color: aqua;
 
 }
+.col-sm-8{
+  background-color: aliceblue;
+  border-radius: 10px;
+  opacity: 0.9 ;
+  position: sticky;
+  color: rgb(60, 1, 95);
+}
 

@@ -32,3 +32,10 @@ h1{
   .container{
     border-radius: 10px;
   }
+  P{
+    background-color: azure;
+    opacity: 0.8 ;
+    color: rgb(146, 1, 1);
+    border-radius: 15px;
+    margin: auto;
+  }

@@ -27,9 +27,18 @@ h4 {
 
 .container {
   border-radius: 10px;
+  padding-top: 10px;
+  margin-bottom: 10px;
 }
 
 h1 {
   text-align: center;
   color: rgb(53, 7, 97);
+}
+.col-sm-8{
+  background-color: blanchedalmond;
+  opacity: 0.9 ;
+  margin-top: 10px;
+  border-radius: 15px;
+  color: rgb(156, 141, 2);
 }
