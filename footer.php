@@ -61,22 +61,22 @@
                   Provinsi
                 </h6>
                 <p>
-                  <a href="Banten.html" class="text-reset">BANTEN</a>
+                  <a href="Banten.php" class="text-reset">BANTEN</a>
                 </p>
                 <p>
-                  <a href="dki.html" class="text-reset">DKI JAKARTA</a>
+                  <a href="dki.php" class="text-reset">DKI JAKARTA</a>
                 </p>
                 <p>
-                  <a href="jabar.html" class="text-reset">JAWA BARAT</a>
+                  <a href="jabar.php" class="text-reset">JAWA BARAT</a>
                 </p>
                 <p>
-                  <a href="jateng.html" class="text-reset">JAWA TENGAH</a>
+                  <a href="jateng.php" class="text-reset">JAWA TENGAH</a>
                 </p>
                 <p>
-                  <a href="diy.html" class="text-reset">DI YOGYAKARTA</a>
+                  <a href="diy.php" class="text-reset">DI YOGYAKARTA</a>
                 </p>
                 <p>
-                  <a href="jatim.html" class="text-reset">JAWA TIMUR</a>
+                  <a href="jatim.php" class="text-reset">JAWA TIMUR</a>
                 </p>
               </div>
               <!-- Grid column -->

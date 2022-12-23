@@ -22,19 +22,19 @@
         crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="jateng.css" />
+    <link rel="stylesheet" href="banten.css" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
         crossorigin="anonymous"></script>
-    <title>Kuliner Jawa Tengah</title>
-
+    <title>Kuliner Banten</title>
 
 
 
 
     <script src="index.js"></script>
+
 
 </head>
 
@@ -42,6 +42,7 @@
     <audio hidden loop>
         <source src="backsound.mp3" type="audio/mpeg">
     </audio>
+
     <div id="mainNavigation">
         <nav role="navigation">
             <div class="py-3 text-center border-bottom">
@@ -60,99 +61,108 @@
             <div class="text-center mt-3 collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav mx-auto ">
                     <li class="nav-item">
-                        <a class="nav-link active " aria-current="page" href="index.html">Home</a>
+                        <a class="nav-link active " aria-current="page" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Banten.html">Banten</a>
+                        <a class="nav-link" href="Banten.php">Banten</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="dki.html">DKI Jakarta</a>
+                        <a class="nav-link" href="dki.php">DKI Jakarta</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="jabar.html">Jawa Barat</a>
+                        <a class="nav-link" href="jabar.php">Jawa Barat</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="jateng.html">Jawa Tengah</a>
+                        <a class="nav-link" href="jateng.php">Jawa Tengah</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="diy.html">DI Yogyakarta</a>
+                        <a class="nav-link" href="diy.php">DI Yogyakarta</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="jatim.html">Jawa Timur</a>
+                        <a class="nav-link" href="jatim.php">Jawa Timur</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="me.html">Tentang Saya</a>
+                        <a class="nav-link" href="me.php">Tentang Saya</a>
                     </li>
 
                 </ul>
             </div>
         </div>
     </div>
-    <h1><b>JAWA TENGAH</b></h1>
+    <h1><b>Banten</b></h1>
     <div class="container">
         <div class="row-cols-lg-3">
             <div class="column">
                 <div class="card">
-                    <img src="Images/tahugimbal.png" style="width:100%">
+                    <img src="Images/satebandeng.jpg" style="width:100%">
                     <div class="container">
-                        <h4><b>Tahu Gimbal</b></h4>
+                        <h4><b>Sate Bandeng</b></h4>
                     </div>
                 </div>
             </div>
             <div class="column">
                 <div class="card">
-                    <img src="Images/garangasem.jpg" alt="Avatar" style="width:100%">
+                    <img src="Images/nasisumsum.png" alt="Avatar" style="width:100%">
                     <div class="container">
-                        <h4><b>Garang Asem</b></h4>
+                        <h4><b>Nasi Bakar Sumsum</b></h4>
 
                     </div>
                 </div>
             </div>
             <div class="column">
                 <div class="card">
-                    <img src="Images/mieongklok.png" alt="" style="width:100%">
+                    <img src="Images/ketan-bintul.jpg-1.png" alt="" style="width:100%">
                     <div class="container">
-                        <h4><b>Mie Ongklok</b></h4>
+                        <h4><b>Ketan Bintul</b></h4>
 
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    
     <div class="container">
-
-        <figure align="center">
-            <img src="Images/tahugimbal.png"  alt="" width="400px" height="300px" style="padding-top: 10PX; border-radius: 25px;" >
-
-        </figure>
-        <p>Tofu dreadlocks is a typical food of the City of Semarang. This food consists of fried tofu, chopped raw
-            cabbage, rice cake, bean sprouts, eggs, and dreadlocks (shrimp fried in flour) and mixed with a special
-            peanut sauce because it uses shrimp paste. It's different from the peanut sauce for the Madiun pecel which
-            is a bit thick. The peanut sauce for tofu dreadlocks is a little runny.</p>
+        <div class="row">
+            <div class="col-sm-4">
+                <img src="Images/satebandeng.jpg" style="width:70%; border-radius: 15px;">
+            </div>
+            <div class="col-sm-6" style="width: 65%">
+                <p>Sate Bandeng is a popular Sundanese traditional cuisine from Banten, a province near Jakarta,
+                    Indonesia.Sate Bandeng is made of deboned milkfish (Chanos chanos; Indonesian: ikan Bandeng)
+                    grilled in its skin on bamboo skewers over charcoal embers. </p>
+            </div>
+        </div>
 
     </div>
     <div class="container">
+        <div class="row">
 
-        <figure align="center">
-            <img src="Images/garangasem.jpg" alt="" width="400px" height="300px" style="padding-top: 10px; border-radius: 25px;">
-
-        </figure>
-        <p>Garang Asem is a processed chicken dish cooked using banana leaves and dominated by a sour and spicy taste.
-            Garang asem originates from Grobogan but now garang asem is popular in Kudus, even now Garang Asem in
-            several cities in Central Java and DI Yogyakarta have this traditional food.</p>
+            <div class="col-sm-6" style="width:80%">
+                <p>Nasi Bakar Sumsum is a special food from Serang, Banten. As the name suggests, the main ingredient
+                    used is rice. The rice is then processed together with spices and beef marrow.
+                    This food is better eaten when it is still warm.</p>
+            </div>
+        </div>
+   
+            <img src="Images/nasisumsum.png" style="width:25%; border-radius: 15px; ">
+        </div>
 
     </div>
     <div class="container">
-
-        <figure align="center">
-            <img src="Images/mieongklok.png" alt="" width="400px" height="300px" style="padding-top: 10PX; border-radius: 25px;">
-
-        </figure>
-        <p>Ongklok noodles are boiled noodles typical of the city of Wonosobo and its surroundings. This boiled noodle
-            is made using cabbage, chopped chives, and a thick, starchy gravy called loh. These noodles are widely sold
-            in various stalls, restaurants, and sold around using carts in the city.</p>
+        <div class="row">
+            <div class="col-sm-4">
+                <img src="Images/ketan-bintul.jpg-1.png" style="width:75%; border-radius: 15px;">
+            </div>
+            <div class="col-sm-6" style="width:65%">
+                <p>Bintul sticky rice is a typical Banten food made from sticky rice and a sprinkling of serundeng, a
+                    type of grated coconut roasted with spices. It can also be served with goat curry or meat
+                    stew.Nodule sticky rice can be found in traditional markets or cake shops. This dish is often
+                    found as an opening menu for fasting in the month of Ramadan. </p>
+            </div>
+        </div>
 
     </div>
+
 </body>
 
 </html>

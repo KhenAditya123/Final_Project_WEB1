@@ -22,18 +22,19 @@
         crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="jabar.css" />
+    <link rel="stylesheet" href="dki.css" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
         crossorigin="anonymous"></script>
-    <title>Kuliner Jawa Barat</title>
+    <title>Kuliner DKI Jakarta</title>
 
 
 
 
     <script src="index.js"></script>
+
 
 </head>
 
@@ -62,107 +63,101 @@
                         <a class="nav-link active " aria-current="page" href="index.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="Banten.html">Banten</a>
+                        <a class="nav-link" href="Banten.php">Banten</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="dki.html">DKI Jakarta</a>
+                        <a class="nav-link" href="dki.php">DKI Jakarta</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="jabar.html">Jawa Barat</a>
+                        <a class="nav-link" href="jabar.php">Jawa Barat</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="jateng.html">Jawa Tengah</a>
+                        <a class="nav-link" href="jateng.php">Jawa Tengah</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="diy.html">DI Yogyakarta</a>
+                        <a class="nav-link" href="diy.php">DI Yogyakarta</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="jatim.html">Jawa Timur</a>
+                        <a class="nav-link" href="jatim.php">Jawa Timur</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="me.html">Tentang Saya</a>
+                        <a class="nav-link" href="me.php">Tentang Saya</a>
                     </li>
 
                 </ul>
             </div>
         </div>
     </div>
-    <h1><b>Jawa Barat</b></h1>
+    <h1><b>DKI JAKARTA</b></h1>
     <div class="container">
         <div class="row-cols-lg-3">
             <div class="column">
                 <div class="card">
-                    <img src="Images/stm.png" style="width:100%">
+                    <img src="Images/keraktelor.jpg" style="width:100%">
                     <div class="container">
-                        <h4><b>Soto Mie</b></h4>
+                        <h4><b>Sate Bandeng</b></h4>
                     </div>
                 </div>
             </div>
             <div class="column">
                 <div class="card">
-                    <img src="Images/batagor.png" style="width:100%">
+                    <img src="Images/SotoBetawi.png" alt="Avatar" style="width:100%">
                     <div class="container">
-                        <h4><b>Batagor</b></h4>
+                        <h4><b>Nasi Bakar Sumsum</b></h4>
 
                     </div>
                 </div>
             </div>
             <div class="column">
                 <div class="card">
-                    <img src="Images/surabi.png" alt="" style="width:100%">
+                    <img src="Images/nasiulam.jpg" alt="" style="width:100%">
                     <div class="container">
-                        <h4><b>Surabi</b></h4>
+                        <h4><b>Nasi Ulam</b></h4>
 
                     </div>
                 </div>
             </div>
         </div>
     </div>
-<div class="container">
+
     <div class="container">
-        <div class="row" style="padding :10px">
-            <div class="col-sm-4">
-                <img src="Images/stm.png" style="width:75%; border-radius: 15px;">
-            </div>
+        <div class="row" style="padding :30px">
             <div class="col-sm-8">
-                <p>Sate Bandeng is a popular Sundanese traditional cuisine from Banten, a province near Jakarta,
-                    Indonesia.Sate Bandeng is made of deboned milkfish (Chanos chanos; Indonesian: ikan Bandeng)
-                    grilled in its skin on bamboo skewers over charcoal embers. </p>
+                <p>Kerak telor is a Betawi traditional spicy omelette dish in Indonesian cuisine. It is made from
+                    glutinous rice cooked with egg and served with serundeng, fried shallots and dried shrimp as
+                    topping. It is considered as a snack and not as a main dish</p>
+            </div>
+            <div class="col-sm-4">
+                <img src="Images/keraktelor.jpg" style="width: 75%; border-radius: 10px; float: right;">
             </div>
         </div>
-
     </div>
-   
-    <div class="container" style="margin-top: 10px;">
-        <div class="row">
-            <div class="col-sm-4">
-                <img src="Images/batagor.png" style="width:75%; border-radius: 15px;">
-            </div>
+    <div class="container">
+        <div class="row" style="padding :30px">
             <div class="col-sm-8">
-                <p>Bintul sticky rice is a typical Banten food made from sticky rice and a sprinkling of serundeng, a
-                    type of grated coconut roasted with spices. It can also be served with goat curry or meat
-                    stew.Nodule sticky rice can be found in traditional markets or cake shops. This dish is often
-                    found as an opening menu for fasting in the month of Ramadan. </p>
+                <p>Betawi cuisine is rich, diverse and eclectic, in part because the Betawi people that create them
+                    were composed from numbers of regional immigrants that came from various places in the Indonesian
+                    archipelago, as well as Chinese, Indian, Arab, and European traders, visitors and immigrants that
+                    were attracted to the port city of Batavia (today modern Jakarta) since centuries ago</p>
+            </div>
+            <div class="col-sm-4">
+                <img src="Images/SotoBetawi.png" style="width: 75%; border-radius: 10px; float: right;">
             </div>
         </div>
-
     </div>
-
-    <div class="container" style="margin-top: 10px;">
-        <div class="row">
-            <div class="col-sm-4">
-                <img src="Images/surabi.png" style="width:75%; border-radius: 15px;">
-            </div>
+    <div class="container">
+        <div class="row" style="padding :30px">
             <div class="col-sm-8">
-                <p>Bintul sticky rice is a typical Banten food made from sticky rice and a sprinkling of serundeng, a
-                    type of grated coconut roasted with spices. It can also be served with goat curry or meat
-                    stew.Nodule sticky rice can be found in traditional markets or cake shops. This dish is often
-                    found as an opening menu for fasting in the month of Ramadan. </p>
+                <p>Nasi ulam is a traditional Indonesian dish of steamed rice served with various herbs and vegetables
+                    The herbs being used especially the leaves of pegagan or often replaced with kemangi, vegetables,
+                    spices and accompanied with various side dishes.</p>
+            </div>
+            <div class="col-sm-4">
+                <img src="Images/nasiulam.jpg" style="width: 75%; border-radius: 10px; float: right;">
             </div>
         </div>
-
     </div>
-</div>
+
 </body>
 
 </html>

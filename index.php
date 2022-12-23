@@ -28,6 +28,14 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
     crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>   
+  AOS.init({
+    duration:300,
+    delay:300
+  }); 
+</script>
   <title>Javanese Culinary</title>
 
 
@@ -62,29 +70,29 @@
             <a class="nav-link active " aria-current="page" href="index.html">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="Banten.html">Banten</a>
+            <a class="nav-link" href="Banten.php">Banten</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="dki.html">DKI Jakarta</a>
+            <a class="nav-link" href="dki.php">DKI Jakarta</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="jabar.html">Jawa Barat</a>
+            <a class="nav-link" href="jabar.php">Jawa Barat</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="jateng.html">Jawa Tengah</a>
+            <a class="nav-link" href="jateng.php">Jawa Tengah</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="diy.html">DI Yogyakarta</a>
+            <a class="nav-link" href="diy.php">DI Yogyakarta</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="jatim.html">Jawa Timur</a>
+            <a class="nav-link" href="jatim.php">Jawa Timur</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="me.html">Tentang Saya</a>
+            <a class="nav-link" href="me.php">Tentang Saya</a>
           </li>
-
         </ul>
       </div>
+    </div>
     </div>
   </div>
 
@@ -101,7 +109,7 @@
     <div class="carousel-inner">
       <div class="carousel-item active transparent">
         <img src="Images/banten1.jpg" class="d-block w-100" alt="..." height="500px">
-        <div class="carousel-caption d-none d-md-block">
+        <div class="carousel-caption d-none d-md-block" >
           <h2><b>BANTEN</b></h2>
         </div>
       </div>
@@ -113,7 +121,7 @@
       </div>
       <div class="carousel-item">
         <img src="Images/jabar.png" class="d-block w-100" alt="..." height="500px">
-        <div class="carousel-caption d-none d-md-block">
+        <div class="carousel-caption d-none d-md-block" >
           <h2><b>JAWA BARAT</b></h2>
         </div>
       </div>
@@ -146,7 +154,7 @@
     </a>
   </div>
   </div>
-  <div class="animate__animated animate__swing animate__delay 0.5s animate__repeat-1">
+  <div class="animate__animated animate__swing animate__delay 0.5s animate__repeat-1" >
     <div class="container">
       <div class="row bg-transparent">
         <div class="card-group">
@@ -177,7 +185,7 @@
                   Park, home to the endangered Javan rhino, encompasses the southwest peninsula, Krakatoa reserve and
                   several islands</p>
                 <!-- Button -->
-                <button type="button" class="btn btn-info"><b>Pelajari Lebih Lanjut</b></button>
+                <button type="button" class="btn btn-info"><a href="banten.php"><b>Pelajari Lebih Lanjut</b></a></button>
 
               </div>
 
@@ -215,7 +223,7 @@
                   dock.
                 </p>
                 <!-- Button -->
-                <button type="button" class="btn btn-info"><b>Pelajari Lebih Lanjut</b></button>
+                <button type="button" class="btn btn-info"><a href="dki.php"><b>Pelajari Lebih Lanjut</b></a></button>
 
               </div>
 
@@ -252,7 +260,7 @@
                   <br></br>
                 </p>
                 <!-- Button -->
-                <button type="button" class="btn btn-info"><b>Pelajari Lebih Lanjut</b></button>
+                <button type="button" class="btn btn-info"><a href="jabar.php"><b>Pelajari Lebih Lanjut</b></a></button>
 
               </div>
 
@@ -291,7 +299,7 @@
                     half-century after Borobudur on the border with Yogyakarta, contains more than 200 temples featuring
                     stone spires, sculptures and carvings.</p>
                   <!-- Button -->
-                  <button type="button" class="btn btn-info"><b>Pelajari Lebih Lanjut</b></button>
+                  <button type="button" class="btn btn-info"><a href="jateng.php"><b>Pelajari Lebih Lanjut</b></a></button>
 
                 </div>
 
@@ -331,7 +339,7 @@
                     <br>
                   </p>
                   <!-- Button -->
-                  <button type="button" class="btn btn-info"><b>Pelajari Lebih Lanjut</b></button>
+                  <button type="button" class="btn btn-info"><a href="diy.php"><b>Pelajari Lebih Lanjut</b></a></button>
 
                 </div>
 
@@ -372,7 +380,7 @@
                     <br>
                   </p>
                   <!-- Button -->
-                  <button type="button" class="btn btn-info"><b>Pelajari Lebih Lanjut</b></button>
+                  <button type="button" class="btn btn-info"><a href="jatim.php"><b>Pelajari Lebih Lanjut</b></a></button>
 
                 </div>
 
@@ -458,22 +466,22 @@
                   Provinsi
                 </h6>
                 <p>
-                  <a href="Banten.html" class="text-reset">BANTEN</a>
+                  <a href="Banten.php" class="text-reset">BANTEN</a>
                 </p>
                 <p>
-                  <a href="dki.html" class="text-reset">DKI JAKARTA</a>
+                  <a href="dki.php" class="text-reset">DKI JAKARTA</a>
                 </p>
                 <p>
-                  <a href="jabar.html" class="text-reset">JAWA BARAT</a>
+                  <a href="jabar.php" class="text-reset">JAWA BARAT</a>
                 </p>
                 <p>
-                  <a href="jateng.html" class="text-reset">JAWA TENGAH</a>
+                  <a href="jateng.php" class="text-reset">JAWA TENGAH</a>
                 </p>
                 <p>
-                  <a href="diy.html" class="text-reset">DI YOGYAKARTA</a>
+                  <a href="diy.php" class="text-reset">DI YOGYAKARTA</a>
                 </p>
                 <p>
-                  <a href="jatim.html" class="text-reset">JAWA TIMUR</a>
+                  <a href="jatim.php" class="text-reset">JAWA TIMUR</a>
                 </p>
               </div>
               <!-- Grid column -->
@@ -504,6 +512,7 @@
         <!-- Copyright -->
       </footer>
       <!-- Footer -->
+      </div>
 
 
 

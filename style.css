@@ -6,8 +6,6 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    
-
 }
 
 *{
@@ -92,6 +90,7 @@ body {
 .carousel-item {
     border: 3px solid;
     border-color: rgb(117, 140, 171);
+    position: static;
 }
 
 #carouselExampleIndicators {
@@ -146,4 +145,9 @@ a{
 
 footer{
     opacity: 0.9 ;
+}
+
+a:link, a:active{
+    text-decoration: none;
+    color:rgb(0, 0, 0);
 }

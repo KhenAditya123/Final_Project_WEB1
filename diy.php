@@ -60,28 +60,28 @@
       <div class="text-center mt-3 collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav mx-auto ">
           <li class="nav-item">
-            <a class="nav-link active " aria-current="page" href="index.html">Home</a>
+            <a class="nav-link active " aria-current="page" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="Banten.html">Banten</a>
+            <a class="nav-link" href="Banten.php">Banten</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="dki.html">DKI Jakarta</a>
+            <a class="nav-link" href="dki.php">DKI Jakarta</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="jabar.html">Jawa Barat</a>
+            <a class="nav-link" href="jabar.php">Jawa Barat</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="jateng.html">Jawa Tengah</a>
+            <a class="nav-link" href="jateng.php">Jawa Tengah</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="diy.html">DI Yogyakarta</a>
+            <a class="nav-link" href="diy.php">DI Yogyakarta</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="jatim.html">Jawa Timur</a>
+            <a class="nav-link" href="jatim.php">Jawa Timur</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="me.html">Tentang Saya</a>
+            <a class="nav-link" href="me.php">Tentang Saya</a>
           </li>
 
         </ul>
